@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Primary sitemap (questchain.me is preferred domain)
+Sitemap: https://questchain.me/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1

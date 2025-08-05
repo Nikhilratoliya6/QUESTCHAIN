@@ -1,0 +1,29 @@
+{
+  "short_name": "QuestChain",
+  "name": "QuestChain - Gamified Daily Task Management",
+  "description": "Build consistent habits with QuestChain's unique weightage-based approach. Track daily quests, visualize progress with activity heatmaps, and master your productivity journey.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "categories": ["productivity", "lifestyle", "utilities"],
+  "lang": "en-US"
+}
